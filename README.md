@@ -30,6 +30,8 @@ When ever you need to add the cheats to your bookmarks, download [this file](obf
 [Highlight Answers](obfuscated/global/intervals/highlightAnswers.js)<br>
 ### [Brawl](obfuscated/brawl/)
 [Reset Health](obfuscated/brawl/resetHealth.js)<br>
+[Invincible](obfuscated/brawl/invincible.js)<br>
+[Nuke](obfuscated/brawl/nuke.js)<br>
 ### [Cafe](obfuscated/cafe/)
 [Max Items](obfuscated/cafe/maxItems.js)<br>
 [Remove Customers](obfuscated/cafe/removeCustomers.js)<br>
