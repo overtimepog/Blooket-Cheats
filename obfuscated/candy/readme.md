@@ -1,13 +1,13 @@
-# Gold Quest Cheats
+# Candy Quest Cheats
 
-## [Chest ESP](chestESP.js)
-Shows what each chest will give you
+## [Pumpkin ESP](pumpkinESP.js)
+Shows what each pumpkin will give you
 
-## [Reset Player's Gold](resetPlayersGold.js)
-Sets a player's gold to 0
+## [Reset Player's Candy](resetPlayersGold.js)
+Sets a player's candy to 0
 
-## [Set Gold](setGold.js)
-Sets amount of gold
+## [Set Candy](setCandy.js)
+Sets amount of candy
 
-## [Swap Gold](swapGold.js)
+## [Swap Candy](swapCandy.js)
 Brings up the player select page to swap with someone

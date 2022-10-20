@@ -72,6 +72,11 @@ When ever you need to add the cheats to your bookmarks, download [this file](obf
 [Reset Player's Gold](obfuscated/gold/resetPlayersGold.js)<br>
 [Set Gold](obfuscated/gold/setGold.js)<br>
 [Swap Gold](obfuscated/gold/swapGold.js)<br>
+### [Candy Quest](obfuscated/candy/) (Limited Time Mode)
+[Pumpkin ESP](obfuscated/gold/pumpkinESP.js)<br>
+[Reset Player's Candy](obfuscated/gold/resetPlayersCandy.js)<br>
+[Set Candy](obfuscated/gold/setCandy.js)<br>
+[Swap Candy](obfuscated/gold/swapCandy.js)<br>
 ### [Crazy Kingdom](obfuscated/kingdom/)
 [Choice ESP](obfuscated/kingdom/choiceESP.js)<br>
 [Disable Toucan](obfuscated/kingdom/disableToucan.js)<br>
